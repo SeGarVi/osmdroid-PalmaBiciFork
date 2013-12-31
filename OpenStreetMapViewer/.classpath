@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="/home/kintaro/Android/android-sdk-linux/extras/android/support/v13/android-support-v13.jar"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/osmdroid-android"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/OSMMapTilePackager"/>
+	<classpathentry kind="src" output="bin/classes" path="gen">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="bin/classes" path="src">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/kintaro/.m2/repository/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/kintaro/.m2/repository/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/kintaro/.m2/repository/org/slf4j/slf4j-android/1.6.1-RC1/slf4j-android-1.6.1-RC1.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
